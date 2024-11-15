@@ -1,9 +1,23 @@
 *composants du problème
 
+acteurs
 élèves
 parents
+
+services
 licence
 internet
+
+infrastructures
 bâtiments
 salles info
+
+objets
 ordis
+mobilier scolaire
+
+
+
+*définition du problème
+
+apprendre en OLN en STD2A dans une classe de 30 élèves dans un lycée de + de 1000 élèves
